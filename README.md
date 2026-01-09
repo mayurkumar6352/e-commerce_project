@@ -33,3 +33,13 @@ The business wanted to identify high-value customers, inactive customers, sales 
 - Data cleaning and preparation
 - Customer segmentation using RFM
 - Translating data into business insights
+
+## Power BI Dashboard
+The dashboard provides an interactive view of KPIs, monthly trends, top products, countries, and customer segments.
+Screenshots are included below to demonstrate key insights.
+
+## Business Impact
+- Identified high-value customer segments to improve retention.
+- Highlighted at-risk customers for re-engagement.
+- Provided data-backed guidance for marketing budget allocation.
+- Enabled quick decision-making through a single interactive dashboard.
